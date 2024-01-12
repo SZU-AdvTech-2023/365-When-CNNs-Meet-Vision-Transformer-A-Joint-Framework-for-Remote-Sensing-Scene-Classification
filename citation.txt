@@ -1,0 +1,9 @@
+@article{REPO365,
+    author = "Deng, Peifang and Xu, Kejie and Huang, Hong",
+    journal = "IEEE Geoscience and Remote Sensing Letters",
+    pages = "1--5",
+    publisher = "IEEE",
+    title = "{When CNNs Meet Vision Transformer: A Joint Framework for Remote Sensing Scene Classification}",
+    volume = "19",
+    year = "2021"
+}
